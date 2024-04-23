@@ -1,0 +1,20 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "main": "./src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.65.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.12.1"
+  },
+  "keywords": [],
+  "description": ""
+}
